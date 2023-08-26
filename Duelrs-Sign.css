@@ -1,0 +1,71 @@
+.Duelrs-Background{
+/* Daniella Lacotera, Personal Project using HTML, CSS
+It is a web idea to connect combat artists of their love and interests of martial arts.
+*/
+
+
+    
+    background-color: grey;
+    background-image: url(Background/black-marble.jpg);
+   } 
+   .header{
+      background-color: black;
+      height:55px;
+      color:white;
+      display:flex;
+     
+      flex-direction: row;
+      top:0;
+      left:0;
+      right:0;
+      flex:row;
+      position:fixed;
+      border-color: #eeecec;
+      border-style: double;
+   
+     
+  
+  }
+  
+  .logo{
+      height:270px;
+  }
+  .left-section ,.right-section{
+      display:flex;
+      align-items: center;
+  
+  } 
+  
+  .home-selector, .aboutUs-selector{
+      margin-left: 300px;
+  
+  }
+  
+  .ContactUs-selector , .SignUp-selector{
+      margin-right:300px;
+  }
+  
+  
+  .logo-image{
+      display:flex;
+      align-items: center;
+      margin-left:200px;
+      margin-right:150px;
+  }
+  div{
+      font-family: Staatliches;
+      color:white
+      
+  }
+  body{
+  
+      padding-top:51px;
+     margin-left:0;
+     margin-right:0;
+     margin-bottom:1px;
+   
+  }
+  
+  
+  
+  
